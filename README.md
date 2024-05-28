@@ -19,6 +19,15 @@
   <li>문자열 출력하기</li>
    <li>a와 b 출력하기</li>
    <li>문자열 반복해서 출력하기</li>
-   <li>대소문자 바꿔서 출력하기</li>
+   <li>대소문자 바꿔서 출력하기 </li>
+     <ul>[Character 함수]
+     <li>isUpperCase() : 대문자인지 판단 => true/false</li>
+       <li>isLowerCase() : 소문자인지 판단 => true/false</li>
+       <li>isDigit() : 숫자인지 판단 => true/false</li>
+       <li>toUpperCase() : 대문자로 변환</li>
+       <li>toLowerCase() : 소문자로 변환</li>
+     </ul>
+     
+   
    <li>특수문자 출력하기</li>
 </ul>
